@@ -7,17 +7,13 @@ getgenv().Settings = {
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords like "All Huges". ]],
 
-                ["Turkey Gift"] = {Class = "Lootbox", Price = "780000"},
+                ["Rainbow Huge Scarecrow Dog"] = {Class = "Pet", Price = "39000000"},
             },
-
-            
-            ["Autumn Chest Mimic"] = {Class = "Pet", Price = "1000000"},
-            ["Autumn Teddy Bear"] = {Class = "Pet", Price = "250000"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
             ["Teleport Delay (s)"] = 3,
-            ["Add Pro Plaza Lobbies"] = false,
+            ["Add Pro Plaza Lobbies"] = true,
             ["Constant Terminal Searching"] = true,
             ["Terminal Searches per Item"] = 3,
             ["Save # Servers"] = 10,
