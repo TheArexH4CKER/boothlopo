@@ -9,6 +9,7 @@ getgenv().Settings = {
 
                 ["Rainbow Huge Scarecrow Dog"] = {Class = "Pet", Price = "39000000"},
             },
+                ["Rainbow Huge Scarecrow Dog"] = {Class = "Pet", Price = "39000000"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
