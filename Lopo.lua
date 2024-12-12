@@ -7,9 +7,9 @@ getgenv().Settings = {
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords like "All Huges". ]],
 
-                ["Rainbow Huge Scarecrow Dog"] = {Class = "Pet", Price = "39000000"},
+                ["Mastery"] = {Class = "XPPotion", Price = "935000"},
             },
-                ["Rainbow Huge Scarecrow Dog"] = {Class = "Pet", Price = "39000000"},
+                ["Mastery"] = {Class = "XPPotion", Price = "935000"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
