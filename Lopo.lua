@@ -1,7 +1,7 @@
 script_key = "oYkaqGCLdqCzxLMfapxWMYckypxyKoyk"
 getgenv().Settings = {
     Sniper = {
-        Active = true,
+        Active = false,
         Items = {
             --// Example Settings showcasing features.
             SearchTerminal = {
@@ -35,12 +35,9 @@ getgenv().Settings = {
     },
 
     Seller = {
-        Active = false,
+        Active = true,
         Items = {
-            ["Huge Abyssal Jellyfish"] = {Class = "Pet", Price = 50000000},
-            ["Large Potion Bundle"] = {Class = "Misc", Price = "10%"},
-            ["All Huges"] = {Class = "Pet", Price = "-5%"},
-            ["All Items"] = {Class = "Lootbox", Price = -5000},
+            ["All Items"] = {Class = "Lootbox", Price = -2000},
         },
         Serverhop = {
             ["Switch Servers"] = true,
