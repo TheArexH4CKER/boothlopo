@@ -38,6 +38,12 @@ getgenv().Settings = {
         Active = true,
         Items = {
             ["All Items"] = {Class = "Lootbox", Price = -2000},
+            ["Icy Phoenix"] = {Class = "Pet", Price = 600000},
+            ["Golden Icy Phoenix"] = {Class = "Pet", Price = 1900000},
+            ["Rainbow Icy Phoenix"] = {Class = "Pet", Price = 2600000},
+            ["Lit Octopus"] = {Class = "Pet", Price = 65000},
+            ["Golden Lit Octopus"] = {Class = "Pet", Price = 160000},
+            ["Rainbow Lit Octopus"] = {Class = "Pet", Price = 310000},
         },
         Serverhop = {
             ["Switch Servers"] = true,
