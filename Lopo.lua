@@ -44,6 +44,7 @@ getgenv().Settings = {
             ["Lit Octopus"] = {Class = "Pet", Price = 65000},
             ["Golden Lit Octopus"] = {Class = "Pet", Price = 160000},
             ["Rainbow Lit Octopus"] = {Class = "Pet", Price = 310000},
+            ["Rainbow Eggs"] = {Class = "Enchant", Price = -2000},
         },
         Serverhop = {
             ["Switch Servers"] = true,
