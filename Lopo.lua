@@ -47,6 +47,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         Items = {
+            ["Snowflake Gift"] = {Class = "Lootbox", Price = 47000},
             ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = 40000000},
             ["2024 X-Large Christmas Present"] = {Class = "Lootbox", Price = 3350000},
             ["2024 Large Christmas Present"] = {Class = "Lootbox", Price = 690000},
