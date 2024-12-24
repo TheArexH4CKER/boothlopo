@@ -38,13 +38,7 @@ getgenv().Settings = {
         Active = true,
         Items = {
             ["All Items"] = {Class = "Lootbox", Price = -2000},
-            ["Icy Phoenix"] = {Class = "Pet", Price = 600000},
-            ["Golden Icy Phoenix"] = {Class = "Pet", Price = 1900000},
-            ["Rainbow Icy Phoenix"] = {Class = "Pet", Price = 2600000},
-            ["Lit Octopus"] = {Class = "Pet", Price = 65000},
-            ["Golden Lit Octopus"] = {Class = "Pet", Price = 160000},
-            ["Rainbow Lit Octopus"] = {Class = "Pet", Price = 310000},
-            ["Rainbow Eggs"] = {Class = "Enchant", Price = -2000},
+            ["All Huges"] = {Class = "Pet", Price = "-5%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
@@ -52,7 +46,7 @@ getgenv().Settings = {
             ["Add Pro Plaza Lobbies"] = true,
         },
         Webhook = {
-            ["URL"] = "",
+            ["URL"] = "https://discord.com/api/webhooks/1242008820499087451/ZHJXqOWoBWJEf4-DRbSUFoitTB3NMhVJxsdpq_YfByMRo671LRxbOwsZ9TYluqnjnw03",
             ["Send Embeds"] = true,
             ["Remove Username"] = true,
         },
