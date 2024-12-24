@@ -7,20 +7,30 @@ getgenv().Settings = {
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords like "All Huges". ]],
 
-                ["Super Shiny Hunter"] = {Class = "Enchant", Price = "1000000"},
+                ["Mini Chest"] = {Class = "Misc", Price = "2%"},
+                ["Coins 5"] = {Class = "Potion", Price = 1},
+                ["Shiny Apple"] = {Class = "Fruit", Price = "+5%"},
             },
-                ["Super Shiny Hunter"] = {Class = "Enchant", Price = "1000000"},
+
+            
+            ["All Huges"] = {Class = "Pet", Price = "80%", DetectManipulation = true, AllTypes = true},
+            ["Rainbow All Huges"] = {Class = "Pet", Price = 20000000},
+            ["All Titanics"] = {Class = "Pet", Price = "30%", UseCosmicValues = true, AllTypes = true},
+            ["All Items"] = {Class = "Misc", Price = "20%", AllTiers = true},
+            ["All Exclusives"] = {Class = "Pet", Price = 500000},
+            ["Huge Fancy Axolotl"] = {Class = "Pet", Price = "+10%"},
+            ["Lightning 1"] = {Class = "Charm", Price = "+2%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
             ["Teleport Delay (s)"] = 3,
-            ["Add Pro Plaza Lobbies"] = true,
+            ["Add Pro Plaza Lobbies"] = false,
             ["Constant Terminal Searching"] = true,
             ["Terminal Searches per Item"] = 3,
             ["Save # Servers"] = 10,
         },
         Webhook = {
-            ["URL"] = "https://discord.com/api/webhooks/1242008820499087451/ZHJXqOWoBWJEf4-DRbSUFoitTB3NMhVJxsdpq_YfByMRo671LRxbOwsZ9TYluqnjnw03",
+            ["URL"] = "",
             ["Send Embeds"] = true,
             ["Remove Username"] = true,
             ["Ping on Huges 'n Titanics"] = true,
@@ -37,8 +47,8 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         Items = {
-            ["All Items"] = {Class = "Lootbox", Price = +2000},
             ["All Huges"] = {Class = "Pet", Price = "-3%"},
+            ["All Items"] = {Class = "Lootbox", Price = +2000},
         },
         Serverhop = {
             ["Switch Servers"] = true,
