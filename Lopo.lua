@@ -50,9 +50,9 @@ getgenv().Settings = {
             ["Snowflake Gift"] = {Class = "Lootbox", Price = "-1%"},
             ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = "-1%"},
             ["2024 X-Large Christmas Present"] = {Class = "Lootbox", Price = "-1%"},
-            ["2024 Large Christmas Present"] = {Class = "Lootbox", Price = -"1%"},
-            ["2024 Medium Christmas Present"] = {Class = "Lootbox", Price = -"1%"},
-            ["2024 Small Christmas Present"] = {Class = "Lootbox", Price = -"1%"},
+            ["2024 Large Christmas Present"] = {Class = "Lootbox", Price = "-1%"},
+            ["2024 Medium Christmas Present"] = {Class = "Lootbox", Price = "-1%"},
+            ["2024 Small Christmas Present"] = {Class = "Lootbox", Price = "-1%"},
             ["All Huges"] = {Class = "Pet", Price = "-3%"},
         },
         Serverhop = {
