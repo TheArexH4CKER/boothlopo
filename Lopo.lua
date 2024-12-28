@@ -47,7 +47,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         Items = {
-            ["Hype Egg"] = {Class = "Lootbox", Price = "-6%"},
+            ["Hype Egg"] = {Class = "Lootbox", Price = "-8%"},
             ["Snowflake Gift"] = {Class = "Lootbox", Price = 65000},
             ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = 40000000},
             ["2024 X-Large Christmas Present"] = {Class = "Lootbox", Price = "-2%"},
@@ -55,7 +55,7 @@ getgenv().Settings = {
             ["2024 Medium Christmas Present"] = {Class = "Lootbox", Price = "-2%"},
             ["2024 Small Christmas Present"] = {Class = "Lootbox", Price = "-2%"},
             ["Rainbow All Huges"] = {Class = "Pet", Price = "-3%"},
-            ["Golden All Huges"] = {Class = "Pet", Price = "-4%"},
+            --["Golden All Huges"] = {Class = "Pet", Price = "-4%"},
             ["All Huges"] = {Class = "Pet", Price = "-3%"},
         },
         Serverhop = {
