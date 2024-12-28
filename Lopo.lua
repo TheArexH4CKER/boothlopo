@@ -48,7 +48,7 @@ getgenv().Settings = {
         Active = true,
         Items = {
             ["Hype Egg"] = {Class = "Lootbox", Price = "-8%"},
-            ["Snowflake Gift"] = {Class = "Lootbox", Price = 65000},
+            ["Snowflake Gift"] = {Class = "Lootbox", Price = 61000},
             ["2024 Gargantuan Christmas Present"] = {Class = "Lootbox", Price = 40000000},
             ["2024 X-Large Christmas Present"] = {Class = "Lootbox", Price = "-6%"},
             ["2024 Large Christmas Present"] = {Class = "Lootbox", Price = "-6%"},
