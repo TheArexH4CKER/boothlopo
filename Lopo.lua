@@ -56,9 +56,9 @@ getgenv().Settings = {
             ["2024 Small Christmas Present"] = {Class = "Lootbox", Price = "-9%"},
             ["Rainbow All Huges"] = {Class = "Pet", Price = "-3%"},
             ["Shiny Rainbow All Huges"] = {Class = "Pet", Price = "-2%"},
-            ["Shiny Golden All Huges"] = {Class = "Pet", Price = "-5%"},
-            ["Golden All Huges"] = {Class = "Pet", Price = "-5%"},
-            -- ["All Huges"] = {Class = "Pet", Price = "-4%"},
+            ["Shiny Golden All Huges"] = {Class = "Pet", Price = "-6%"},
+            ["Golden All Huges"] = {Class = "Pet", Price = "-6%"},
+            ["All Huges"] = {Class = "Pet", Price = "-4%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
